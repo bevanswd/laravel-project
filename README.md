@@ -2,4 +2,4 @@
 
 creating a message logging system with viewable logged messages table for logged-in users
 
-<h1>MMMMMVVVVVCCCCC</h1>
+view demo here: http://brandonevansmedia.com/laravel/public/
