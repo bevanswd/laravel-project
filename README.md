@@ -1,7 +1,7 @@
 <h2>My first laravel project</h2>
 
 <b>What it is:</b>
-a message logging system with viewable posts table for logged-in users
+a message logging system with viewable posts table for logged-in users. Uses a SQL database.
 <br>
 <b>What it does:</b>
 form fill and user management system. posts are saved and logged-in users are able to view all form submissions from the dashboard
